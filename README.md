@@ -49,7 +49,7 @@
 
 A modern offline-first desktop media library for organizing, watching, and tracking local videos with dedicated Entertainment and Study profiles.
 
-**Tech:** Electron • JavaScript • HTML • CSS
+**Tech:**  Electron • React • TypeScript • Node.js • SQLite • Prisma • Tailwind CSS • Zustand
 
 ---
 
