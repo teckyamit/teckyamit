@@ -45,13 +45,13 @@
 
 ---
 ## 🚀 Featured Projects
+### 🎬 [Local Flix](https://github.com/teckyamit/localflix)
 
-### 🎬 [Local Flix](https://github.com/techyamit/localflix)
-
-Offline desktop media library built with Electron.
+A modern offline-first desktop media library for organizing, watching, and tracking local videos with dedicated Entertainment and Study profiles.
 
 **Tech:** Electron • JavaScript • HTML • CSS
 
+🔗 [View Repository](https://github.com/teckyamit/localflix)
 ---
 
 ### 📊 Data Analytics Projects
