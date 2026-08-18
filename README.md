@@ -51,7 +51,6 @@ A modern offline-first desktop media library for organizing, watching, and track
 
 **Tech:** Electron • JavaScript • HTML • CSS
 
-🔗 [View Repository](https://github.com/teckyamit/localflix)
 ---
 
 ### 📊 Data Analytics Projects
