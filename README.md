@@ -46,7 +46,8 @@
 ---
 ## 🚀 Featured Projects
 
-### 🎬 Local Flix
+### 🎬 [Local Flix](https://github.com/techyamit/localflix)
+
 Offline desktop media library built with Electron.
 
 **Tech:** Electron • JavaScript • HTML • CSS
